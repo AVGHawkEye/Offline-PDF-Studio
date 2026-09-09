@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Offline PDF Studio</string>
+    <string name="app_tagline">100% Offline &amp; Privacy-First</string>
+    <string name="storage_info">Storage</string>
+    <string name="privacy_guarantee">All files are processed locally on your device. Zero cloud uploads.</string>
+
+    <!-- Utilities -->
+    <string name="tool_merge">Merge PDFs</string>
+    <string name="desc_merge">Combine multiple documents into a single PDF</string>
+
+    <string name="tool_split">Split PDF</string>
+    <string name="desc_split">Extract page ranges or individual pages into a new PDF</string>
+
+    <string name="tool_compress">Compress PDF</string>
+    <string name="desc_compress">Reduce file size using local memory optimization</string>
+
+    <string name="tool_organize">Organize Pages</string>
+    <string name="desc_organize">Reorder, rotate 90°, or remove pages interactively</string>
+
+    <string name="tool_image_to_pdf">Image to PDF</string>
+    <string name="desc_image_to_pdf">Convert photos and pictures (JPG/PNG) into a PDF</string>
+
+    <string name="tool_pdf_to_image">PDF to Image</string>
+    <string name="desc_pdf_to_image">Export PDF pages as high-resolution images</string>
+
+    <string name="tool_protect">Protect / Unlock</string>
+    <string name="desc_protect">Encrypt with AES password or unlock protected files</string>
+
+    <string name="tool_ocr">Extract Text / OCR</string>
+    <string name="desc_ocr">Extract embedded text or run on-device OCR on scanned pages</string>
+
+    <!-- Actions -->
+    <string name="select_files">Select Files</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="select_images">Select Images</string>
+    <string name="save_to_device">Save to Device</string>
+    <string name="open_file">Open File</string>
+    <string name="share_file">Share File</string>
+    <string name="close">Close</string>
+    <string name="processing">Processing on device…</string>
+    <string name="success">Operation completed successfully!</string>
+    <string name="error">An error occurred during processing.</string>
+</resources>

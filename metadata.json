@@ -1,0 +1,6 @@
+{
+  "name": "Offline PDF Studio",
+  "description": "100% offline, privacy-focused PDF studio for merging, splitting, compressing, organizing, converting, protecting, and local OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
