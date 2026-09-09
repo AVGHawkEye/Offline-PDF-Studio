@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>📄 Offline PDF Studio</h1>
+  <p style="font-size: 32px; font-weight: bold; margin-bottom: 0;">📄 Offline PDF Studio</p>
   <p><strong>A 100% free, privacy-first PDF utility app for Android.</strong></p>
 
   <p>
@@ -25,12 +25,12 @@
 
 <hr />
 
-<h3>✨ Features & Tools</h3>
+<p style="font-size: 20px; font-weight: bold;">✨ Features & Tools</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📂 Organize & Optimize</h4>
+      <p style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">📂 Organize & Optimize</p>
       <ul>
         <li><b>Merge & Split:</b> Combine files or extract page ranges.</li>
         <li><b>Organize Grid:</b> Drag-and-drop page reordering.</li>
@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔒 Convert & Secure</h4>
+      <p style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">🔒 Convert & Secure</p>
       <ul>
         <li><b>Converters:</b> Image to PDF and Web/HTML to PDF.</li>
         <li><b>Protect & Unlock:</b> Local AES password management.</li>
@@ -52,7 +52,7 @@
 
 <hr />
 
-<h3>🛡️ Privacy First Architecture</h3>
+<p style="font-size: 20px; font-weight: bold;">🛡️ Privacy First Architecture</p>
 
 <blockquote>
   <b>Your privacy is protected:</b> Offline PDF Studio processes 100% of your documents client-side inside device RAM. Files are never transmitted over the internet or uploaded to remote cloud servers.
@@ -66,7 +66,7 @@
 
 <hr />
 
-<h3>👨‍💻 Tech Stack</h3>
+<p style="font-size: 20px; font-weight: bold;">👨‍💻 Tech Stack</p>
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -74,9 +74,3 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
-
----
-[Custom GitHub README Badges Guide](https://www.youtube.com/watch?v=xaktHJ8EPk0)
-
-This video demonstrates how to create and customize Shields.io badges and clean Markdown layouts to make your GitHub repository presentation visually engaging.
-http://googleusercontent.com/youtube_content/1
