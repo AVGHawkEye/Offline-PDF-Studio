@@ -1,76 +1,89 @@
 <div align="center">
 
-  <p style="font-size: 32px; font-weight: bold; margin-bottom: 0;">📄 Offline PDF Studio</p>
-  <p><strong>A 100% free, privacy-first PDF utility app for Android.</strong></p>
+  <!-- Dynamic Large Header Banner -->
+  <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=40&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%93%84+Offline+PDF+Studio" alt="Offline PDF Studio Header" />
+  </a>
 
-  <p>
-    <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio/releases">
-      <img src="https://img.shields.io/github/v/release/AVGHawkEye/Offline-PDF-Studio?style=for-the-badge&color=2ea44f&logo=android" alt="Download APK" />
-    </a>
-    <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/AVGHawkEye/Offline-PDF-Studio?style=for-the-badge&color=0969da" alt="License" />
-    </a>
-    <img src="https://img.shields.io/badge/Offline-100%25-orange?style=for-the-badge&logo=offline" alt="100% Offline" />
+  <p align="center">
+    <strong>A 100% free, offline, and privacy-first PDF utility app for Android.</strong>
   </p>
 
-  <p><i>Merge, split, compress, edit, convert, and sign PDFs directly on your mobile device—zero paywalls, zero cloud uploads.</i></p>
+  <!-- Badges Grid -->
+  <p align="center">
+    <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio/releases/tag/v1.0.0">
+      <img src="https://img.shields.io/badge/Release-v1.0.0-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Latest Release" />
+    </a>
+    <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-0969da?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="MIT License" />
+    </a>
+    <img src="https://img.shields.io/badge/Privacy-100%25_Offline-orange?style=for-the-badge&logo=shield" alt="100% Offline" />
+  </p>
+
+  <p align="center">
+    <i>Merge, split, compress, edit, convert, and sign PDFs directly on your mobile device—zero paywalls, zero cloud uploads.</i>
+  </p>
 
   <br />
 
+  <!-- Download Call-To-Action Button -->
   <a href="https://github.com/AVGHawkEye/Offline-PDF-Studio/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_v1.0.0_APK-SUCCESS?style=for-the-badge&color=238636" width="300" alt="Download Button" />
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD_V1.0.0_APK-238636?style=for-the-badge&logoColor=white" height="45" alt="Download APK Button" />
   </a>
 
 </div>
 
+<br />
 <hr />
+<br />
 
-<p style="font-size: 20px; font-weight: bold;">✨ Features & Tools</p>
+<!-- Styled Section Headers (No Anchor Link Hover) -->
+<p style="font-size: 22px; font-weight: 800; color: #2ea44f; margin-bottom: 12px;">✨ Features & Tools</p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <p style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">📂 Organize & Optimize</p>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <p style="font-size: 16px; font-weight: 700; margin-bottom: 8px;">📂 Organize & Optimize</p>
       <ul>
-        <li><b>Merge & Split:</b> Combine files or extract page ranges.</li>
-        <li><b>Organize Grid:</b> Drag-and-drop page reordering.</li>
-        <li><b>Compress PDF:</b> Streamline file size locally.</li>
-        <li><b>Local OCR:</b> Extract text from scanned pages.</li>
+        <li><b>Merge & Split:</b> Combine files or extract page ranges easily.</li>
+        <li><b>Organize Grid:</b> Drag-and-drop page reordering & rotation.</li>
+        <li><b>Compress PDF:</b> Streamline and reduce file size locally.</li>
+        <li><b>Local OCR:</b> Extract plain text from scanned pages offline.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <p style="font-size: 16px; font-weight: bold; margin-bottom: 8px;">🔒 Convert & Secure</p>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <p style="font-size: 16px; font-weight: 700; margin-bottom: 8px;">🔒 Convert & Secure</p>
       <ul>
         <li><b>Converters:</b> Image to PDF and Web/HTML to PDF.</li>
         <li><b>Protect & Unlock:</b> Local AES password management.</li>
-        <li><b>Digital Signature:</b> Draw and embed sign layers.</li>
+        <li><b>Digital Signature:</b> Draw and embed signature layers.</li>
         <li><b>Page Operations:</b> Rotate, crop, and remove pages.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<hr />
+<br />
 
-<p style="font-size: 20px; font-weight: bold;">🛡️ Privacy First Architecture</p>
+<p style="font-size: 22px; font-weight: 800; color: #2ea44f; margin-bottom: 12px;">🛡️ Privacy First Architecture</p>
 
 <blockquote>
-  <b>Your privacy is protected:</b> Offline PDF Studio processes 100% of your documents client-side inside device RAM. Files are never transmitted over the internet or uploaded to remote cloud servers.
+  <b>Your privacy is guaranteed:</b> Offline PDF Studio processes 100% of your documents client-side inside device RAM. Files are never transmitted over the internet or uploaded to remote cloud servers.
 </blockquote>
 
 <ul>
-  <li>🚫 No internet access required</li>
-  <li>🚫 No subscription paywalls or ads</li>
-  <li>🚫 No data tracking or analytics</li>
+  <li>🚫 <b>No internet connection required</b></li>
+  <li>🚫 <b>No subscription paywalls or ads</b></li>
+  <li>🚫 <b>No data tracking or telemetry</b></li>
 </ul>
 
-<hr />
+<br />
 
-<p style="font-size: 20px; font-weight: bold;">👨‍💻 Tech Stack</p>
+<p style="font-size: 22px; font-weight: 800; color: #2ea44f; margin-bottom: 12px;">👨‍💻 Tech Stack</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
